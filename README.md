@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Estudiante+de+DAM+%F0%9F%8E%93;Apasionado+del+desarrollo+m%C3%B3vil+y+backend;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80;Desde+Vigo,+Galicia+%F0%9F%8C%8A)](https://git.io/typing-svg)
 
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_CORREO@ejemplo.com)
-
 </div>
 
 ---
